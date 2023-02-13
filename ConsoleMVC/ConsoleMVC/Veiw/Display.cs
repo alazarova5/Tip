@@ -30,7 +30,7 @@ namespace ConsoleMVC.Veiw
         public void ShowTipAndTotal()
         {
             Console.WriteLine("Your tip is: {0:C} ", TipAmount);
-            Console.WriteLine("The totalwill be {0:C}" , Total);
+            Console.WriteLine("The total will be {0:C}" , Total);
         }
     }
 }
